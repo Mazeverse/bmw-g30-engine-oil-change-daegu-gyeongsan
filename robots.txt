@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://너버셀주소.vercel.app/sitemap.xml
