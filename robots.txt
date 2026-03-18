@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://너버셀주소.vercel.app/sitemap.xml
+Sitemap: https://bmw-g30-engine-oil-change-daegu-gye.vercel.app/sitemap.xml
